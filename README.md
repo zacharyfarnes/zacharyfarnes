@@ -53,4 +53,4 @@ Here are some of the tools and technologies I work with:
 
 I’m actively looking for opportunities to contribute as an **iOS Developer**. Feel free to check out my repositories or reach out on LinkedIn. Let’s connect and see how we can work together to create exceptional iOS applications!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/zachary-farnes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/zacharyfarnes)
